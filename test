@@ -2,3 +2,5 @@ this is a git test file by chenertao
 from ubuntu 14.04
 
 git is a distrabuted version conctrol system.
+
+Git has a mutable index called stage
