@@ -4,4 +4,4 @@ from ubuntu 14.04
 git is a distrabuted version conctrol system.
 
 Git has a mutable index called stage
-Git tracks changes
+Git tracks changes of files
